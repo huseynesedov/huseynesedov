@@ -49,8 +49,6 @@
 
 ###
 
-<br clear="both">
-
 <p align="left">😎✌Github Stats</p>
 
 ###
