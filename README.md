@@ -5,6 +5,8 @@
 <p align="left">My Portfolio Web Sayt :<br>https://huseynesedov-portfolio.vercel.app/</p>
 
 ###
+<p align="left"> <a href="https://github.com/huseynesedov/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huseynesedov&margin-w=15" alt="bbarisbolat" /></a> </p>
+<br>
 
 <h2 align="center">I'm Huseyn, Web Developer 👨‍💻</h2>
 
