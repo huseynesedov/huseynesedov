@@ -70,12 +70,13 @@
 </div>
 
 ###
-
+<div align=center>
+  
+  | ![](https://komarev.com/ghpvc/?username=huseynesedov&color=blue) |
+ 
+  started counting on 02/10/2023
+  
+</div> 
 <div align="left">
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/huseynesedov/huseynesedov/output/snake.svg" alt="Snake animation" />
-
-###
