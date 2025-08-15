@@ -2,9 +2,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=huseynesedov">
 </p>
-
-
-<p>Some facts:</p>
+<h1 disaple="none">Hüseyn Əsədov </h1>  
 <h1 align="left">Reach Me</h1>
 <p align="left">
   <a href="https://www.linkedin.com/in/huseynesedov/" target="blank">
