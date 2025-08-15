@@ -1,8 +1,7 @@
 <h1>👋 - Hi visitor, I'm Hüseyn Əsədov !</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Charles-Chrismann">
+  <img src="https://komarev.com/ghpvc/?username=huseynesedov">
 </p>
-<h3 align="center">F*** Zodiac signs, let's play Pokemon together</h3>
 <p align="center">
   <a href="https://o.charles-chrismann.fr/gba/input">
     <img src="./assets/gba/top.png">
@@ -71,52 +70,7 @@
   <li>:sauropod: Deno is a better Node with a cut mascot</li>
   <li>:crab: & :otter: are better together (there is no gopher emoji and otters are cute)</li>
 </ul>
-<table align="center">
-  <thead>
-    <tr>
-      <th colspan="3" width="512">Last Followers</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">16382</td>
-      <td align="center">
-        <a href="https://github.com/ishandutta2007" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/2527354?u=6bac124f7707983d195cc2c7846104272bfef200&v=4" alt="ishandutta2007" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ishandutta2007" target="_blank">ishandutta2007</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">16383</td>
-      <td align="center">
-        <a href="https://github.com/nahom-zewdu" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/116443749?u=3485bea249463a36d46c4b43231ebc3f820c42f4&v=4" alt="nahom-zewdu" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/nahom-zewdu" target="_blank">nahom-zewdu</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">16384</td>
-      <td align="center">
-        <a href="https://github.com/Siddiha" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/178984572?u=8765e56160e7ba8d3b132c5034e6151d660f591c&v=4" alt="Siddiha" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Siddiha" target="_blank">Siddiha</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">16385</td>
-      <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
-    </tr>
-  </tbody>
-</table>
+
 <h1 align="left">Reach Me</h1>
 <p align="left">
   <a href="https://www.linkedin.com/in/charles-chrismann/" target="blank">
