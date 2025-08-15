@@ -2,8 +2,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=huseynesedov">
 </p>
-<h1 class="hidden">Hüseyn Əsədov </h1>  
-
 <h1 align="left">Reach Me</h1>
 <p align="left">
   <a href="https://www.linkedin.com/in/huseynesedov/" target="blank">
@@ -74,12 +72,6 @@
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/>
-  </a>
-  <a href="https://symfony.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original-wordmark.svg" alt="symfony" width="40" height="40"/>
   </a>
 </p>
 <h3>Tools</h3>
